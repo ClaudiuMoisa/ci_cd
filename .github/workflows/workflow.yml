@@ -3,7 +3,7 @@ name: Github Pages Deploy
 on:
   push:
     branches:
-      - "master"
+      - "main"
 
 jobs:
   build:
@@ -25,4 +25,3 @@ jobs:
         with:
           branch: gh-pages
           folder: build
-          

@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h2>Github actions main</h2>
+      <h2>Github actions main updated</h2>
     </div>
   );
 }
